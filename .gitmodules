@@ -1,0 +1,9 @@
+[submodule "hildur-s-digital-hub"]
+	path = hildur-s-digital-hub
+	url = https://github.com/ebbhagen1/hildur-s-digital-hub
+[submodule "hildur-s-warm-welcome"]
+	path = hildur-s-warm-welcome
+	url = https://github.com/ebbhagen1/hildur-s-warm-welcome
+[submodule "pixel-perfect-clone"]
+	path = pixel-perfect-clone
+	url = https://github.com/ebbhagen1/pixel-perfect-clone
